@@ -1,0 +1,9 @@
+C:\Users\Developer\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Developer\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Developer\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Developer\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Math.dll
+C:\Users\Developer\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Math.pdb
+C:\Users\Developer\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Developer\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
